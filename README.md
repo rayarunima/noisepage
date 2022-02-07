@@ -42,10 +42,3 @@ Additional Notes:
 Please see the [docs](https://github.com/cmu-db/noisepage/tree/master/docs/).
 
 
-## Contributing
-
-If you are a current student at CMU,
-  - See the [New Student Guide](https://github.com/cmu-db/noisepage/tree/master/docs/). 
-  - Consider enrolling in one of the [database courses](https://db.cs.cmu.edu/courses/).
-
-Contributions from non-CMU students are also welcome!
